@@ -30,7 +30,7 @@ I try to make the analysis more of a story as you can see in the notebook to mak
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@youssef.mecky96/your-guide-to-list-an-apartment-in-seattle-on-airbnb-736d842d3967).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
